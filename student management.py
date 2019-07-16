@@ -38,11 +38,11 @@ def delstu():
             del student['number']
             del student['quarter']
     goto_menu = input('Enter any key to go back')
-    manu()
+    menu()
 def findstu():
     findname = input('Enter student name to get his data: ')
     for student in students:
         if student[Name] == findname:
             print(student)
     goto_menu = input('Enter any key to go back')
-    manu()
+    menu()
