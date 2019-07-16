@@ -14,3 +14,6 @@ This repository contains 2 management systems.
 4. Search items
 5. Edit items
 6. Exit
+#### Coded on : Visual Studio Code 
+
+#### Language used : Python 3.7
